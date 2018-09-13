@@ -1,0 +1,35 @@
+/*
+* {
+  box-sizing: border-box;
+  margin: 5px;
+  border-radius: 5px;
+  border: 0px solid black;
+  
+}
+*/
+
+body {
+  color: #d0d0d0;
+  background-color: #333333;
+  font-family: Ubuntu ,sans-serif;
+}
+
+.spacer {
+  height: 30px;
+}
+
+.brand, .model {
+  margin: 10px;
+}
+
+th {
+  background: #444444  
+}
+
+.radioPropertyName {
+  background-color: #000000;
+}
+
+.radioPropertyValue {
+ 
+}

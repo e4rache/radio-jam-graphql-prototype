@@ -1,0 +1,17 @@
+{
+  "name": "fun-fun-function-grapql",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "graphql-tools": "^3.1.1",
+    "mongoose": "^5.2.10"
+  }
+}
